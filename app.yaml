@@ -1,4 +1,4 @@
-application: infinispan-github
+application: seam-github-emailhook
 version: 1
 runtime: python
 api_version: 1
